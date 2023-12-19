@@ -2,11 +2,12 @@
 
 # Getting Started
 
-Run `npm install` in the folder to install the project dependencies.\
+Run `npm install` in the marvin-take-home folder to install the project dependencies.\
 Run `npm dev` to run the project
 
 # Directions
 - Recreate this webapp that you see in the picture using this React and NextJs project.
+- You can find the sample data to be used in the data/dogs.ts file
 - Do not use any external frontend libraries (ie Bootstrap, Material, etc)
 - Dimensions do not have to be exact. Use your best judgement.
 - Create this only for desktop. Do not make this responsive nor optimize for mobile.
