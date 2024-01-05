@@ -21,4 +21,4 @@ Run `npm dev` to run the project
 - When finished, push to your branch and notify us via email that it is ready for review. You will need to share your project with us via screen share during your follow-up interview.
 
 ## Note
-We understand take home tests can be time consuming and we wanted to present something we considered a fair project that wouldn't take up too much time (1-2 hours). We have purposely added some instructions on what not to do to prevent spending too much time on the assignment. When in doubt, go with the simplest and fastest option. Come prepared to discuss your decisions and what you would do given more time.
+We understand take home tests can be time consuming and we wanted to present something we considered a fair project that wouldn't take up too much time. We have purposely added some instructions on what not to do to prevent spending too much time on the assignment. When in doubt, go with the simplest and fastest option. Come prepared to discuss your decisions and what you would do given more time.
